@@ -16,10 +16,5 @@ I am a developer focused on building intelligent applications & automating finan
 *   **OpenInterestTrackingSystemNSE:** An automated data pipeline utilizing scheduled GitHub Actions to track and manage open interest data from the National Stock Exchange.
 *   **CommunitySupport:** A web service project demonstrating backend infrastructure management and deployment via Render.
 
-## ⚡ Quick Facts
-*   I leverage tools like Gamma to streamline technical documentation and presentations.
-*   I utilize technical education platforms like Infosys Springboard to continuously upgrade my professional skillset.
-*   When I'm not coding, I'm likely exploring real-time market crossover alerts or learning about the latest in cloud infrastructure.
-
 ---
 ⭐️ *Profile README generated to reflect my ongoing journey in AI and Software Engineering.*
