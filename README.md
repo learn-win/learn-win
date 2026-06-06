@@ -1,7 +1,7 @@
 # Hi there, I'm ARDHANARIESWARAR A 
 ### Student | Aspiring Machine Learning Engineer | AI & FinTech Developer
 
-I am a developer focused on building intelligent applications & automating financial market data. 
+I am a developer focused on building applications & automating financial market data. 
 
 ##  About Me
 -  I actively build automated tracking systems for Indian stock indices (Nifty 50, Bank Nifty) and technical Analysis.
