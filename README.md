@@ -5,8 +5,7 @@ I am a developer focused on building intelligent applications & automating finan
 
 ##  About Me
 -  I actively build automated tracking systems for Indian stock indices (Nifty 50, Bank Nifty) and technical indicators.
--  I’m currently learning deeper Machine Learning Engineering concepts and agentic AI frameworks.
-
+-  I’m currently learning deeper Machine Learning Engineering concepts.
 ##  Area of Interest 
 - **Financial Analysis:** TradingView integrations 
 
