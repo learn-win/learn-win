@@ -6,15 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ardhanarieswarar-a-6a818925a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ardhanarieswarara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/learn-win/Driver-Drowsy-Detection-2026" target="_blank">
-    <img src="https://img.shields.io/badge/AI%2FML%20Project-Driver%20Drowsiness%20Detection-blue?style=for-the-badge&logo=pytorch&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/ardhanarieswarar-a-6a818925a/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:ardhanarieswarara@gmail.com">Email</a> &nbsp;|&nbsp;
+  <a href="https://github.com/learn-win/Driver-Drowsy-Detection-2026" target="_blank">AI/ML Project: Driver Drowsiness Detection</a>
 </p>
 
 ---
@@ -99,10 +93,7 @@ Fully offline coding environment built for low-connectivity regions, removing in
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=learn-win&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learn-win&layout=compact&theme=default&hide_border=true" width="48%" />
-</p>
+View live stats: [github.com/learn-win](https://github.com/learn-win)
 
 ---
 
