@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ardhanarieswarar A</h1>
-<h3 align="center">Software Developer | Aspiring ML Engineer | Security Enthusiast</h3>
+<h1 align="center">Ardhanarieswarar A</h1>
+<h3 align="center">Software Developer | Machine Learning Engineer (Aspiring) | Security Researcher</h3>
 
 <p align="center">
-  Building real-time systems at the intersection of <b>AI, FinTech, and Security</b> — currently pursuing B.Tech in Information Technology at PSG College of Technology.
+  Building real-time AI systems, financial market automation, and secure web applications — B.Tech Information Technology, PSG College of Technology.
 </p>
 
 <p align="center">
@@ -10,95 +10,100 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ardhanarieswarara@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/learn-win/Driver-Drowsy-Detection-2026" target="_blank">
+    <img src="https://img.shields.io/badge/AI%2FML%20Project-Driver%20Drowsiness%20Detection-blue?style=for-the-badge&logo=pytorch&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## About
 
-- 🔭 Currently building **automated tracking systems** for Indian stock indices (Nifty 50, Bank Nifty) with technical analysis
-- 🧠 Deep-diving into **Machine Learning Engineering** — transformers, computer vision, and real-time inference
-- 🔐 Background in **web security** — penetration testing, vulnerability research, and responsible disclosure (reported a vulnerability affecting OpenAI)
-- 🌱 Exploring **TradingView integrations & AFL coding** for financial market analysis
-- ⚡ Fun fact: I like building things that work *without the internet* — see my offline compiler project below
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-</p>
+- Currently building automated tracking systems for Indian stock indices (Nifty 50, Bank Nifty) with technical analysis logic
+- Working on Machine Learning Engineering — transformer architectures, computer vision, and real-time inference pipelines
+- Background in web application security — penetration testing, vulnerability research, and responsible disclosure
+- Reported a confirmed Insecure Data Transport vulnerability (cleartext transmission of sensitive data) affecting OpenAI
+- Interested in TradingView integrations and AFL (AmiBroker Formula Language) coding for financial market analysis
 
 ---
 
-### 📌 Highlighted Projects
+## Technical Skills
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚗 <a href="https://github.com/learn-win/Driver-Drowsy-Detection-2026">Driver Drowsiness Detection</a></h4>
-      <p>Real-time fatigue detection using a <b>Transformer-based</b> deep learning model trained on the YawDD dataset. Uses OpenCV + Dlib for spatial-temporal facial landmark tracking to classify alertness from live video.</p>
-      <i>PyTorch · OpenCV · Dlib · Python</i>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎓 College Hub</h4>
-      <p>Campus social platform with real-time one-to-one messaging via WebSockets and a role-based, department-specific news feed built on Firebase access rules.</p>
-      <i>Vite.js · Firebase · WebSockets</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📈 Stocks Notifier</h4>
-      <p>Cross-platform Flutter app delivering customizable real-time alerts for stock prices and index movements, with open interest data and support/resistance tracking.</p>
-      <i>Flutter</i>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Integrated Offline Compiler</h4>
-      <p>Fully offline coding environment for low-connectivity regions — multi-language support (Java, Python, C, HTML) with backend compilation logic in Node.js.</p>
-      <i>React.js · Node.js</i>
-    </td>
-  </tr>
-</table>
+**Languages:** Java, Kotlin, JavaScript, Python
+
+**Frameworks and Libraries:** Node.js, React.js, Flutter, PyTorch, OpenCV
+
+**Databases:** MySQL, Firebase
+
+**Security Tools:** Burp Suite, manual penetration testing methodology (OWASP Top 10)
+
+**Machine Learning:** Transformer encoders, self-attention mechanisms, facial landmark detection (Dlib), spatial-temporal feature extraction
 
 ---
 
-### 🏆 Achievements
+## AI / Machine Learning Project
 
-- 🐞 **Responsible Disclosure:** Identified and reported an Insecure Data Transport vulnerability (cleartext transmission of sensitive data) affecting OpenAI
-- 📡 **CCNA Certified:** Enterprise Networking, Security, and Automation
-- 🔓 **Security Research:** Demonstrated authentication bypass leading to admin-level access during a professional security assessment at Selsoft Solutions
+### Driver Drowsiness Detection (2026)
+Repository: [github.com/learn-win/Driver-Drowsy-Detection-2026](https://github.com/learn-win/Driver-Drowsy-Detection-2026)
+
+A real-time driver fatigue detection system that classifies alertness state (alert or drowsy) from live video feeds.
+
+Technical implementation:
+- Built a Transformer-based deep learning model in PyTorch using self-attention mechanisms to capture long-range spatial-temporal dependencies across video frames
+- Trained and validated on the YawDD (Yawning Detection Dataset), which contains diverse driver video sequences for fatigue analysis
+- Engineered a facial landmark extraction pipeline using OpenCV and Dlib to track eye aspect ratio and mouth opening ratio as physical fatigue indicators
+- Optimized the inference pipeline for low latency, supporting real-time alerting suitable for in-vehicle deployment
+
+This is my primary AI/ML project — linked above and pinned on my profile for visibility.
 
 ---
 
-### 📊 GitHub Stats
+## Other Projects
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=learn-win&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learn-win&theme=tokyonight&hide_border=true" width="48%" />
-</p> -->
+### College Hub (2025)
+Campus collaboration platform supporting text and image posts, functioning as a department-aware social network.
+- Implemented real-time one-to-one messaging using WebSockets for persistent, low-latency communication
+- Built a role-based, department-specific news feed using Firebase access rules to filter relevant announcements
+- Stack: Vite.js, Firebase, WebSockets
+
+### Stocks Notifier (2024)
+Cross-platform mobile app for real-time stock market monitoring.
+- Delivers customizable alerts for live stock prices and index movements
+- Integrates open interest data and support/resistance level tracking via market data APIs
+- Stack: Flutter
+
+### Integrated Offline Compiler (2023)
+Fully offline coding environment built for low-connectivity regions, removing internet dependency for code compilation.
+- Supports multi-language compilation (Java, Python, C, HTML) through a unified backend execution service
+- Stack: React.js, Node.js
+
+---
+
+## Experience
+
+### Selsoft Solutions — Internship Trainee, Web Security (May 2023 – June 2023)
+- Conducted end-to-end security assessments on production web applications using Burp Suite (proxy interception, repeater, intruder) combined with manual penetration testing covering the OWASP Top 10
+- Identified a critical authentication bypass vulnerability by manipulating session tokens and request parameters, demonstrating a path to unauthorized admin-level access
+- Documented vulnerability reproduction steps and remediation guidance in formal security reports
+
+---
+
+## Achievements
+
+- Responsible Disclosure: Identified and reported an Insecure Data Transport vulnerability affecting OpenAI
+- CCNA Certified: Enterprise Networking, Security, and Automation
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learn-win&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=learn-win&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learn-win&layout=compact&theme=default&hide_border=true" width="48%" />
 </p>
 
 ---
 
-<p align="center"><i>📫 Reach me at ardhanarieswarara@gmail.com — always open to collaborating on AI, FinTech, or security projects.</i></p>
+<p align="center">Contact: ardhanarieswarara@gmail.com</p>
