@@ -31,7 +31,7 @@
 
 **Databases:** MySQL, Firebase
 
-**Security Tools:** Burp Suite, manual penetration testing methodology (OWASP Top 10)
+**Security Tools:** Burp Suite, manual penetration testing methodology
 
 **Machine Learning:** Transformer encoders, self-attention mechanisms, facial landmark detection (Dlib), spatial-temporal feature extraction
 
